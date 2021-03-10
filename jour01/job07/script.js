@@ -1,4 +1,4 @@
-jourtravaille("03/07/2021   ")
+jourtravaille()
 function jourtravaille(date){
     date=new Date(date)
     var monthname=["Janvier","Fevrier","Mars","Avril","Mai","Juin","Juillet","Aout","Septembre","Octobre","Novembre","Decembre"]

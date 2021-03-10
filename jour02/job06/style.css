@@ -1,0 +1,11 @@
+body{
+    min-height: 4096px;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+footer{
+    position: fixed;
+    bottom:0    
+}

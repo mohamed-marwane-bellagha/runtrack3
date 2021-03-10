@@ -1,5 +1,5 @@
 
-sommenombrespremiers(11,13)
+sommenombrespremiers()
 function isPrime(var1){
     for(let i = 2; i < var1; i++){
         if( var1% i === 0){ 
