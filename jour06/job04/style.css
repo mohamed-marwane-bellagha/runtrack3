@@ -1,0 +1,14 @@
+#acontainer{
+    display: block;
+}
+.hamburger{
+    display:none;
+}
+@media (max-width:767px){
+    #acontainer{
+        display: none;
+    }
+    .hamburger{
+        display: flex;
+    }
+}

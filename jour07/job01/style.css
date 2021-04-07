@@ -1,0 +1,19 @@
+main{
+    background-color:#dcdcdc
+}
+
+.title{
+    text-align: center;
+}
+.containertop{
+    display: flex;
+    justify-content: space-between;
+}
+.jumbotron{
+    background-color: #e9ecef;
+    padding:2%
+}
+.paginationcontainer{
+    display: flex;
+    justify-content : flex-end;
+}
